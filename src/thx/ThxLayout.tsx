@@ -42,7 +42,7 @@ export const ThxLayout = () => {
           view="primary"
           href="https://online.alfabank.ru/debit_card_showcase?flowType=KIDS"
         >
-          Перейти на главный экран
+          Оформить карту
         </ButtonMobile>
       </div>
     </>
